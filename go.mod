@@ -1,4 +1,4 @@
-module github.com/kubeshop/testkube-executor-template
+module github.com/lufty96/cucumber-executor
 
 go 1.18
 
